@@ -1,0 +1,101 @@
+Goroutines:	     11		 Clients:	     61
+Last GC:1535572859550352140	 Next GC:	  46 MB
+Heap from OS:	  27 MB		 Heap Alloc:	  23 MB
+Free:	    389			 Heap Idle:	 3.5 MB
+Mallocs:	   1305		 Live (mallocs-free):	916
+Heap Released:	    0 B		 Heap InUse:	  23 MB
+
+
+Goroutines:	    118		 Clients:	     66
+Last GC:1535572917588411684	 Next GC:	 141 MB
+Heap from OS:	 144 MB		 Heap Alloc:	 134 MB
+Free:	   6526			 Heap Idle:	 9.3 MB
+Mallocs:	   8282		 Live (mallocs-free):	1756
+Heap Released:	    0 B		 Heap InUse:	 134 MB
+
+
+Goroutines:	    228		 Clients:	     66
+Last GC:1535572979080449314	 Next GC:	 243 MB
+Heap from OS:	 300 MB		 Heap Alloc:	 179 MB
+Free:	  14331			 Heap Idle:	 121 MB
+Mallocs:	  16547		 Live (mallocs-free):	2216
+Heap Released:	    0 B		 Heap InUse:	 180 MB
+
+
+Goroutines:	    399		 Clients:	     66
+Last GC:1535573033454513756	 Next GC:	 394 MB
+Heap from OS:	 412 MB		 Heap Alloc:	 355 MB
+Free:	  21239			 Heap Idle:	  57 MB
+Mallocs:	  24376		 Live (mallocs-free):	3137
+Heap Released:	    0 B		 Heap InUse:	 355 MB
+
+
+Goroutines:	    511		 Clients:	     66
+Last GC:1535573098789127291	 Next GC:	 542 MB
+Heap from OS:	 586 MB		 Heap Alloc:	 303 MB
+Free:	  29876			 Heap Idle:	 283 MB
+Mallocs:	  32958		 Live (mallocs-free):	3082
+Heap Released:	    0 B		 Heap InUse:	 303 MB
+
+
+Goroutines:	    679		 Clients:	     67
+Last GC:1535573145465116320	 Next GC:	 662 MB
+Heap from OS:	 656 MB		 Heap Alloc:	 613 MB
+Free:	  35295			 Heap Idle:	  43 MB
+Mallocs:	  40300		 Live (mallocs-free):	5005
+Heap Released:	    0 B		 Heap InUse:	 613 MB
+
+
+Goroutines:	    590		 Clients:	     66
+Last GC:1535573211865037087	 Next GC:	 739 MB
+Heap from OS:	 820 MB		 Heap Alloc:	 530 MB
+Free:	  44680			 Heap Idle:	 290 MB
+Mallocs:	  49339		 Live (mallocs-free):	4659
+Heap Released:	    0 B		 Heap InUse:	 531 MB
+
+
+Goroutines:	    780		 Clients:	     66
+Last GC:1535573276405221478	 Next GC:	 844 MB
+Heap from OS:	 820 MB		 Heap Alloc:	 510 MB
+Free:	  52906			 Heap Idle:	 310 MB
+Mallocs:	  57113		 Live (mallocs-free):	4207s
+Heap Released:	    0 B		 Heap InUse:	 510 MB
+
+
+Goroutines:	    841		 Clients:	     66
+Last GC:1535573324330314719	 Next GC:	 1.0 GB
+Heap from OS:	 969 MB		 Heap Alloc:	 820 MB
+Free:	  58937			 Heap Idle:	 148 MB
+Mallocs:	  65415		 Live (mallocs-free):	6478
+Heap Released:	 1.6 MB		 Heap InUse:	 820 MB
+
+
+Goroutines:	   1001		 Clients:	     66
+Last GC:1535573388819510026	 Next GC:	 1.1 GB
+Heap from OS:	 1.0 GB		 Heap Alloc:	 762 MB
+Free:	  67102			 Heap Idle:	 280 MB
+Mallocs:	  72975		 Live (mallocs-free):	5873
+Heap Released:	 1.3 MB		 Heap InUse:	 762 MB
+
+
+Goroutines:	   1032		 Clients:	     67
+Last GC:1535573458920988835	 Next GC:	 1.2 GB
+Heap from OS:	 1.2 GB		 Heap Alloc:	 635 MB
+Free:	  76021			 Heap Idle:	 592 MB
+Mallocs:	  81072		 Live (mallocs-free):	5051
+Heap Released:	 3.0 MB		 Heap InUse:	 636 MB
+
+Goroutines:	   1065		 Clients:	     68
+Last GC:1535573519184965068	 Next GC:	 1.3 GB
+Heap from OS:	 1.2 GB		 Heap Alloc:	 638 MB
+Free:	  83766			 Heap Idle:	 589 MB
+Mallocs:	  88636		 Live (mallocs-free):	4870
+Heap Released:	 2.8 MB		 Heap InUse:	 638 MB
+
+
+Goroutines:	   1239		 Clients:	     69
+Last GC:1535573549806711696	 Next GC:	 1.3 GB
+Heap from OS:	 1.4 GB		 Heap Alloc:	 1.3 GB
+Free:	  87308			 Heap Idle:	  77 MB
+Mallocs:	  96167		 Live (mallocs-free):	8859
+Heap Released:	 2.5 MB		 Heap InUse:	 1.3 GB
